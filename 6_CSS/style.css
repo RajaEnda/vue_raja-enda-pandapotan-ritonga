@@ -6,9 +6,10 @@ img{
 #Lorem{
     text-align: left;
     background-color: white;
-    margin: 50px 420px;
-    width: 480px;
-    padding: 5px;    
+    padding: 5px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;    
 }
     
 h3{
