@@ -1,0 +1,38 @@
+img{
+    max-width: 10%;
+    max-height: 5%;
+
+    
+}
+#Lorem{
+    text-align: left;
+    background-color: white;
+    margin: 50px 420px;
+    width: 480px;
+    padding: 5px;
+    
+}
+h3{
+    text-align: left;
+    color: deepskyblue;
+}
+header{
+    padding: 1px 0;
+    background-color: white;
+    text-align: right;
+    background-image: url(./sample-logo.png);
+    background-repeat: no-repeat;
+    background-size: 200px 50px;
+    color: blue;
+}
+header ul li{
+    display: inline-block;
+    text-align: right;
+    margin: 5px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 100px;
+}
