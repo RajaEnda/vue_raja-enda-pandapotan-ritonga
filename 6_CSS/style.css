@@ -1,38 +1,49 @@
 img{
     max-width: 10%;
     max-height: 5%;
-
-    
 }
+
 #Lorem{
     text-align: left;
     background-color: white;
     margin: 50px 420px;
     width: 480px;
-    padding: 5px;
-    
+    padding: 5px;    
 }
+    
 h3{
     text-align: left;
     color: deepskyblue;
 }
+
 header{
-    padding: 1px 0;
+    padding: 2px;
     background-color: white;
     text-align: right;
     background-image: url(./sample-logo.png);
     background-repeat: no-repeat;
-    background-size: 200px 50px;
+    background-size: 150px 30px;
     color: blue;
+    background-position: left;
 }
+
 header ul li{
     display: inline-block;
     text-align: right;
-    margin: 5px;
+    margin: 1px 10px 1px 10px;
+    height: 1px;
+    margin-left: auto;
+    padding: 0px;
 }
+
 footer{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px 100px;
+    padding: 0px;
+    height: 30px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
 }
