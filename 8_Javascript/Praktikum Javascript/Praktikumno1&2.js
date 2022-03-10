@@ -21,12 +21,12 @@ function perkenalan() {
 
 if (terdaftar === true) {
     console.log(nama + " terdaftar sebagai kegiatan kampus merdeka");
-}
+}//2.a, tidak dapat ditampilkan karena nama dengan nilai false sebelumnya, harus terdapat nama dengan nilai True barulah dapat ditampilkan
 
 a = b;
-// nama = b;
+// nama = b; //2.b, karena nama dan b berbeda
 
-// console.log("asal diakses = " + asal);
+// console.log("asal diakses = " + asal); 2.c, karena tidak benar/error sehingga membuat output tidak dapat di ekesekusi.
 console.log("a adalah = " + a);
 console.log("b adalah = " + b);
 perkenalan();
