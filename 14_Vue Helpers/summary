@@ -1,0 +1,3 @@
+Navigasi adalah cara berpindah dari satu halaman ke halaman lain.
+Layout Template adalah susunan tata letak, sedangkan layout template pada vue adalah komponen yang dapat dipakai sebagai susunan tata letak dasar yang membungkus masing-masing halaman.
+penyimpanan global adalah sebuah metode untuk menyimpan variabel yang dapat diakses dengan mudah diseluruh bagian aplikasi.
