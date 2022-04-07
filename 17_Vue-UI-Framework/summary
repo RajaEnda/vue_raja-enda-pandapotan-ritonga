@@ -1,0 +1,4 @@
+UI Framework adalah kumpulan elemen visual (seperti tombol, ikon dll) dan fungsionalitas yang biasa dipakai secara instan.
+Vuetify adalah library yang memungkinkan kita membuat aplikasi dengan tampilan yang indah walaupun kita bukan seorang desainer. Vuetify memiliki 80 komponen berbasis Material Design yang mana komponen tersebut dapat membantu kita lebih cepat dalam pengembangan aplikasi.
+Manajemen warna adalah pengaturan set warna yang kita terapkan terhadap tampilan aplikasi.
+tema gelap dan terang adalah fitur peralihan warna latar belakang aplikasi dari terang ke gelap dan sebaliknya.
