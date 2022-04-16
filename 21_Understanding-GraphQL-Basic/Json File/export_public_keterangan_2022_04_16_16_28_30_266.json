@@ -1,0 +1,44 @@
+[
+  {
+    "Status": true,
+    "id": 1,
+    "id_anggota": 1,
+    "Nilai": 85,
+    "Pelajaran": "Sistem informasi"
+  },
+  {
+    "Status": true,
+    "id": 3,
+    "id_anggota": 2,
+    "Nilai": 90,
+    "Pelajaran": "Sistem informasi"
+  },
+  {
+    "Status": true,
+    "id": 5,
+    "id_anggota": 3,
+    "Nilai": 90,
+    "Pelajaran": "Sistem informasi"
+  },
+  {
+    "Status": true,
+    "id": 2,
+    "id_anggota": 1,
+    "Nilai": 65,
+    "Pelajaran": "React"
+  },
+  {
+    "Status": true,
+    "id": 4,
+    "id_anggota": 2,
+    "Nilai": 50,
+    "Pelajaran": "React"
+  },
+  {
+    "Status": true,
+    "id": 6,
+    "id_anggota": 3,
+    "Nilai": 55,
+    "Pelajaran": "React"
+  }
+]

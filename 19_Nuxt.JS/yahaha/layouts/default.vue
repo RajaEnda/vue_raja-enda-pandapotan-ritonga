@@ -1,10 +1,10 @@
 <template>
-<v-app dark>
+  <v-app dark>
     <v-navigation-drawer
       v-model="drawer"
       :clipped="clipped"
       fixed
-      color="blue" 
+      color="light-blue" 
       dark
       app
     >
@@ -26,7 +26,7 @@
       </v-list>
     </v-navigation-drawer>
     <v-app-bar :clipped-left="clipped" fixed app color="light-blue" dark>
-      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />  
+      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <v-toolbar-title v-text="title" />
       <v-spacer />
     </v-app-bar>
@@ -57,13 +57,13 @@ export default {
         },
         {
         icon: 'mdi-filmstrip-box-multiple',
-          title: 'Film Populer',
+          title: 'Film Terpopuler',
           to: '/popMovie',
         },
         
       ],
       rightDrawer:true ,
-      title: 'Movies',
+      title: 'Movie',
     }
   },
 }
