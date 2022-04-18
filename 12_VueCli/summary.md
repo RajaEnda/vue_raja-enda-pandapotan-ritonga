@@ -1,4 +1,0 @@
-Kita tidak dapat membayangkan pengembangan web modern tanpa bantuan alat Command Line Interface (CLI). Mereka sangat memfasilitasi dan mempercepat alur kerja pengembangan dengan mengurangi jumlah tugas yang berulang dan membosankan. Menyiapkan proyek secara manual, dengan semua linting, building, testing, preprocessing, optimizing, dan fitur dependencies tracking tidak terdengar seperti pekerjaan yang menyenangkan, bukan?
-
-Itulah sebabnya semua kerangka kerja pengembangan sisi klien modern (seperti Angular, React, dll.) Menawarkan versi tools CLI mereka sendiri, dan Vue.js tidak terkecuali. Tetapi dengan versi ketiga terbaru, Vue CLI akan selangkah lebih maju dari yang lain. Sekarang tidak hanya sangat kuat dan fleksibel, tetapi juga dilengkapi dengan GUI yang lengkap. Vue CLI 3 menawarkan full graphical user interface out-of-the-box.
-Vue CLI adalah seperangkat tools untuk pembuatan rapid prototipe, perancah aplikasi yang mudah, dan manajemen proyek yang efisien.
