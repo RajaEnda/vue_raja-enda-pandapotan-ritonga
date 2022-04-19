@@ -1,0 +1,5 @@
+Database adalah sekumpulan data yang terorganisir.
+one to many merupakan satu terhadap banyak relasi contohnya user dapat memiliki banyak tweets.
+many to many banyak relasi dapat berhubungan dengan banyak relasi contohnya 1 user bisa memiliki banyak follower user, dan 1 user bisa melakukan follow banyak user.
+join adalah sebuah klausa untuk mengkombinasikan record dari dua atau lebih tabel.
+inner Join akan mengembalikan baris-baris dari dua tabel yang memenuhi syarat.
