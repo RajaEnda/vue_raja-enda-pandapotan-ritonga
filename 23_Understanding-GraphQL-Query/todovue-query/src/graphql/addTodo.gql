@@ -1,0 +1,6 @@
+mutation MyMutation ($text_id: String!){
+  insert_user_one(object: {text_id: $text_id }) {
+    text_id
+    id
+  }
+}

@@ -1,0 +1,6 @@
+mutation MyMutation ($id: uuid! $text_id: String!) {
+update_user_by_pk(pk_columns: {id: $id}, _set: {text_id: $text_id}) {
+text_id
+id
+}
+}

@@ -1,0 +1,9 @@
+query MyQuery {
+        user_bio {
+          asal
+          date
+          id
+          jurusan
+          name
+        }
+      }
